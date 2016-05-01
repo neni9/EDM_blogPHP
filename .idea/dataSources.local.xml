@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - db_blogphp_test@localhost" uuid="906827fb-29ce-44e7-b7e3-f77ab492137b">
+      <secret-storage>master_key</secret-storage>
+      <user-name>tmilaravel</user-name>
+    </data-source>
+  </component>
+</project>
